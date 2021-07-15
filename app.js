@@ -17,7 +17,7 @@ app.use(express.static("public"));
 // }); // LOCAL SERVER ONLY
 
 mongoose.connect("mongodb+srv://sm1983:34651840@cluster0.mx46k.mongodb.net/todolistDB", {useNewUrlParser: true,
-});
+}); // Format: mongodb+srv://username:password@host/database
 
 const itemsSchema = {
 
