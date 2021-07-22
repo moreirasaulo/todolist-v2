@@ -1,2 +1,2 @@
 # todolist-v2
-JavaScript, MongoDB, Mongoose, EJS, Express and more.
+JavaScript, MongoDB, Mongoose, EJS, Express, Bootstrap, CSS, HTML, CSS
